@@ -2,7 +2,7 @@
 
 **Emerging Technology Track | Capstone Project by AJ Dave Obis and Juan Francis Tuatis**  
 
-***Video Presentation YouTube Lnk: https://youtu.be/r20fxU2oxPE***📼
+***📼Video Presentation YouTube Lnk: https://youtu.be/r20fxU2oxPE***
 
 ##  Project Overview 🧠
 
