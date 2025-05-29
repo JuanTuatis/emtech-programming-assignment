@@ -2,6 +2,8 @@
 
 **Emerging Technology Track | Capstone Project by AJ Dave Obis and Juan Francis Tuatis**  
 
+***Video Presentation YouTube Lnk: https://youtu.be/r20fxU2oxPE📼***
+
 ##  Project Overview 🧠
 
 This project investigates how students' lifestyle habits influence academic performance using a simulated dataset of 1,000 students. By analyzing screen time, study and sleep patterns, mental health, and other lifestyle variables, we explore how these factors relate to final exam scores.
